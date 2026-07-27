@@ -74,17 +74,6 @@ Aplicativo desenvolvido em Flutter integrado ao Firebase para gerenciamento de a
 
 ---
 
-# 📈 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeRafaSp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeRafaSp&layout=compact&langs_count=7&theme=github_dark"/>
-
-</p>
-
----
 
 # 📫 Contato
 
