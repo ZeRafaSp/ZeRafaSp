@@ -10,7 +10,7 @@ Atualmente desenvolvo projetos utilizando **Power BI**, **SQL**, **Python**, **F
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,flutter,sql,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flutter,firebase,git,github,vscode" />
 
 </p>
 
