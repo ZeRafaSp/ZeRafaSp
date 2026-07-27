@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou José Rafael Santos Pereira
 
-💻 **Analista de Sistemas** apaixonado por tecnologia, desenvolvimento de software e análise de dados.
+💻 Atualmente atuo como **Coordenador de T.I.** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Atualmente desenvolvo projetos utilizando **Power BI**, **SQL**, **Python**, **Flutter** e **Firebase**, sempre buscando transformar dados em informações úteis e criar soluções que gerem valor.
+Tenho interesse em Business Intelligence, análise de dados e desenvolvimento de software, desenvolvendo projetos com **Power BI**, **SQL**, **Python**, **Flutter** e **Firebase** para transformar dados em informações estratégicas e criar soluções que apoiem a tomada de decisão.
 
 ---
 
