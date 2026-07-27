@@ -2,7 +2,7 @@
 
 💻 **Analista de Sistemas** apaixonado por tecnologia, desenvolvimento de software e análise de dados.
 
-Atualmente desenvolvo projetos utilizando **Power BI**, **SQL**, **Python**, **Flutter**, **Java** e **Firebase**, sempre buscando transformar dados em informações úteis e criar soluções que gerem valor.
+Atualmente desenvolvo projetos utilizando **Power BI**, **SQL**, **Python**, **Flutter** e **Firebase**, sempre buscando transformar dados em informações úteis e criar soluções que gerem valor.
 
 ---
 
@@ -10,7 +10,7 @@ Atualmente desenvolvo projetos utilizando **Power BI**, **SQL**, **Python**, **F
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,flutter,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flutter,sql,firebase,git,github,vscode" />
 
 </p>
 
