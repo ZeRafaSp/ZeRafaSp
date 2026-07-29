@@ -55,7 +55,7 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
   - Efetividade das campanhas
   - Análise dos pontos de venda
 
-👥 **Dashboard de RH**
+- 👥 **Dashboard de RH**
   - Perfil demográfico dos colaboradores
   - Distribuição por função
   - Salário médio e experiência
