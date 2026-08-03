@@ -60,6 +60,18 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
   - Distribuição por função
   - Salário médio e experiência
   - Engajamento e disponibilidade para hora extra
+ 
+   * 👤 Dashboard de Perfil de Clientes
+   * Perfil demográfico (idade, altura, peso)
+   * Segmentação por categoria (Bronze, Prata, Ouro, Diamante)
+   * Identificação de outliers (método IQR)
+   * Tratamento e limpeza de dados
+
+* 📈 Dashboard Bolsa de Valores
+   * Comportamento de ações ao longo do tempo
+   * Variação mensal (MoM%) entre empresas
+   * Volume de negociações
+   * Smart Narrative
 ---
 
 ## 📱 Desenvolvimento
