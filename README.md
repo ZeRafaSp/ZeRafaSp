@@ -72,6 +72,21 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
    * Variação mensal (MoM%) entre empresas
    * Volume de negociações
    * Smart Narrative
+ 
+* 📊 **Dashboard de Engenharia de Produção**
+   * Análise da produção industrial ao longo do tempo
+   * Análise por turno e faixa etária dos funcionários
+   * Detecção de anomalias na produção
+   * Previsão da produção para os próximos 5 anos
+   * Recursos de IA nativos do Power BI
+ 
+* 🚨 **Detecção de Anomalias em Transações Financeiras**
+
+  * Aplicação de Machine Learning com Isolation Forest
+  * Detecção e classificação de registros anômalos
+  * Cálculo de Anomaly Score
+  * Análise dos resultados utilizando Linguagem R
+  * Dashboard interativo desenvolvido no Power BI
 ---
 
 ## 📱 Desenvolvimento
