@@ -61,7 +61,7 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
   - Salário médio e experiência
   - Engajamento e disponibilidade para hora extra
  
-  -👤 **Dashboard de Perfil de Clientes**
+* 👤 **Dashboard de Perfil de Clientes**
    * Perfil demográfico (idade, altura, peso)
    * Segmentação por categoria (Bronze, Prata, Ouro, Diamante)
    * Identificação de outliers (método IQR)
@@ -100,9 +100,12 @@ Aplicativo desenvolvido em Flutter integrado ao Firebase para gerenciamento de a
 # 🎯 Atualmente estudando
 
 - Business Intelligence
-- Engenharia de Dados
+- Análise de Dados
 - Python para Análise de Dados
 - SQL Avançado
+- Tratamento e limpeza de dados
+- Modelagem de dados
+- Power BI
 - Flutter
 - Arquitetura de Software
 
