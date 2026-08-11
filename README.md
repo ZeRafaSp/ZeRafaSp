@@ -70,7 +70,7 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
 
 ### Vosttro Asset Tracker
 
-Aplicativo mobile desenvolvido do zero em Flutter e Dart, integrado ao Firebase, para gerenciamento e rastreamento de ativos tecnológicos. A solução substituiu controles manuais em Excel e foi implementada e utilizada pela empresa.
+#Aplicativo mobile desenvolvido do zero em Flutter e Dart, integrado ao Firebase, para gerenciamento e rastreamento de ativos #tecnológicos. A solução substituiu controles manuais em Excel e foi implementada e utilizada pela empresa.
 ---
 
 # 🎯 Atualmente estudando
