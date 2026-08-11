@@ -30,11 +30,6 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
 
 ## 📈 Dashboards Power BI
 
-- 📊 **Dashboard Comercial**
-  - Análise de performance de vendas
-  - KPIs comerciais
-  - Smart Narrative
-  - Key Influencers
  
 * 👤 **Dashboard de Perfil de Clientes**
    * Perfil demográfico (idade, altura, peso)
