@@ -35,31 +35,6 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
   - KPIs comerciais
   - Smart Narrative
   - Key Influencers
-
-- 💰 **Dashboard Financeiro**
-  - Receita
-  - Despesas
-  - Margem de lucro
-  - Indicadores Financeiros
-
-- 🚚 **Dashboard Logístico**
-  - Performance das entregas
-  - Entregas no prazo
-  - Equipes
-  - Vendedores
-  - Indicadores Logísticos
-
-- 📢 **Dashboard de Marketing**
-  - Perfil dos clientes
-  - Comportamento de compra
-  - Efetividade das campanhas
-  - Análise dos pontos de venda
-
-- 👥 **Dashboard de RH**
-  - Perfil demográfico dos colaboradores
-  - Distribuição por função
-  - Salário médio e experiência
-  - Engajamento e disponibilidade para hora extra
  
 * 👤 **Dashboard de Perfil de Clientes**
    * Perfil demográfico (idade, altura, peso)
@@ -87,6 +62,13 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
   * Cálculo de Anomaly Score
   * Análise dos resultados utilizando Linguagem R
   * Dashboard interativo desenvolvido no Power BI
+
+* 🗄️ **Análise de Desempenho de Vendas — SQL + Power BI**
+  * Análise de vendas por produto e ano
+  * Métricas de mínimo, máximo, média e total
+  * Consultas e agregações utilizando SQL
+  * Dashboard interativo desenvolvido no Power BI
+
 ---
 
 ## 📱 Desenvolvimento
