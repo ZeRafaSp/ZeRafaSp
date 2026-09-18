@@ -23,6 +23,7 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
 - 🔄 Power Query
 - 🗄️ SQL
 - 📑 Excel
+- 📈 Python
 
 ---
 
@@ -37,11 +38,11 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
    * Identificação de outliers (método IQR)
    * Tratamento e limpeza de dados
 
-* 📈 **Dashboard Bolsa de Valores**
-   * Comportamento de ações ao longo do tempo
-   * Variação mensal (MoM%) entre empresas
-   * Volume de negociações
-   * Smart Narrative
+* 🛍️ **Olist E-Commerce Analytics**
+   * Tratamento e validação de dados com Python/Pandas
+   * Análise de vendas, clientes, logística e pagamentos com SQL
+   * Avaliação da satisfação dos clientes e prazos de entrega
+   * Preparação dos dados para dashboard no Power BI
  
 * 📊 **Dashboard de Engenharia de Produção**
    * Análise da produção industrial ao longo do tempo
