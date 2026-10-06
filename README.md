@@ -12,7 +12,7 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,flutter,firebase,git,github,vscode,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,flutter,firebase,git,github,vscode,postgresql,power bi" />
 
 </p>
 
