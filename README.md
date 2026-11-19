@@ -2,7 +2,7 @@
 
 💻 Sou **Coordenador de T.I.** e estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Neste perfil compartilho projetos desenvolvidos em **Power BI**, **SQL**, **Python**, **Flutter** e **Firebase**, com foco em Business Intelligence, análise de dados e desenvolvimento de soluções que apoiem a tomada de decisões e a otimização de processos.
+Neste perfil compartilho projetos desenvolvidos em **Power BI**, **SQL**, **Python**, **Flutter** e **Firebase**, com foco em Análise de dados, Ciência de dados e desenvolvimento de soluções que apoiem a tomada de decisões e a otimização de processos.
 
 Estou em constante evolução, buscando aprimorar minhas habilidades por meio de projetos práticos e novos desafios.
 
@@ -29,7 +29,7 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
 
 # 📊 Projetos em Destaque
 
-## 📈 Dashboards Power BI
+## 📈 Dashboards Power BI, Python, SQL, Machine learning e IA
 
  
 * 👤 **Dashboard de Perfil de Clientes**
