@@ -59,11 +59,11 @@ Estou em constante evolução, buscando aprimorar minhas habilidades por meio de
   * Análise dos resultados utilizando Linguagem R
   * Dashboard interativo desenvolvido no Power BI
 
-* 🗄️ **Análise de Desempenho de Vendas — SQL + Power BI**
-  * Análise de vendas por produto e ano
-  * Métricas de mínimo, máximo, média e total
-  * Consultas e agregações utilizando SQL
-  * Dashboard interativo desenvolvido no Power BI
+* 🗄️ **Prospecção Comercial - Power BI, Excel, docker, IA**
+  * Utilização do Google maps scraper kit para prospecção
+  * Docker utilizado para consultas e criação das planilhas excel
+  * planillhas criadas com nicho Cosmético, Alimentício e Químico
+  * Dashboard interativo desenvolvido no Power BI para área comercial da empresa
 
 ---
 
